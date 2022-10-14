@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
-<h3 align="center">A passionate math student from Spain</h3>
+<h3 align="center">A passionate math student from Spain, currently at [Imperial College London](https://www.imperial.ac.uk/)!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosaccp&label=Profile%20views&color=0e75b6&style=flat" alt="carlosaccp" /> </p>
 
